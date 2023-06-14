@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile views](https://gpvc.arturio.dev/Pharoouzy)
+<!--![Profile views](https://gpvc.arturio.dev/Pharoouzy)-->
 
 ![Pharoouzy's github stats](https://github-readme-stats.vercel.app/api?username=Pharoouzy&count_private=true&show_icons=true&theme=dracula&hide_rank=false&include_all_commits=true)
  
  [![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=Pharoouzy&langs_count=10&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
  
- ![trophy](https://github-profile-trophy.vercel.app/?username=Pharoouzy)
+ <!--![trophy](https://github-profile-trophy.vercel.app/?username=Pharoouzy)-->
